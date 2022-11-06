@@ -28,5 +28,6 @@ int main()
     {
         printf("%d ", stud.marks[i]);
     }
+
     return 0;
 }
