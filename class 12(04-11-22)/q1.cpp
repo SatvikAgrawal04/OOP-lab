@@ -16,7 +16,7 @@ public:
     Distance() {}
     void operator=(Centimetre c)
     {
-        km = c.cen / 100000.0;
+        km = c.cen / 100000;
         c.cen = c.cen % 100000;
         m = c.cen / 100;
         cm = c.cen % 100;
