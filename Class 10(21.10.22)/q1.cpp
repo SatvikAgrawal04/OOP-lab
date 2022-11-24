@@ -44,8 +44,8 @@ public:
         return B;
     }
 };
-
-int main()
+int
+main()
 {
     Distance A(4, 5);
     Distance B;

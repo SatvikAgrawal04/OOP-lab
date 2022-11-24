@@ -1,0 +1,6 @@
+functions:-
+open(): used to open a file in various modes such as read, write, append etc.
+ios :: in: read
+ios :: out: write
+ios :: app: append
+ios :: ate: opens a binary file

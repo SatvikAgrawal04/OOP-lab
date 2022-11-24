@@ -56,5 +56,7 @@ int main()
     C = C++;
     cout << "C++" << endl;
     C.show();
+    C = C++;
+    C.show();
     return 0;
 }
